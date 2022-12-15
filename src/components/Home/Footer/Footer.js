@@ -11,7 +11,7 @@ const Footer = () => {
       <footer>
         <div className="footer p-10 py-16 text-white ">
           <div className='bg-white text-secondary p-5 rounded'>
-            <img src={logo} alt="" className='mb-5 ' />
+            <img src={logo} alt="" classN='mb-5 ' />
             <h4 className="text-xl">Immune and Inspired</h4>
             <SocialIcons></SocialIcons>
           </div>

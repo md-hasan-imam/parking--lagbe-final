@@ -203,7 +203,7 @@ const Header = ({ type }) => {
                     )}
                   </div>
                   <div className="headerSearchItem justify-self-center lg:justify-self-end">
-                    <button className="headerBtn px-8 py-3 lg:px-16 lg:py-3 rounded" onClick={handleSearch}>
+                    <button className="headerBtn px-1 py-3 lg:px-2 lg:py-4 rounded" onClick={handleSearch}>
                       Search Now
                     </button>
                   </div>
